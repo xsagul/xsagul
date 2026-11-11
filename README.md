@@ -27,6 +27,7 @@ I build fast, accessible websites, online stores, and data tools with a focus on
 
 - [Google Skillshop Credentials](https://skillshop.credential.net/profile/sorinstiuriuc528714/wallet) (Google Ads & Google Analytics 4)
 - [HubSpot Academy Public Profile](https://app.hubspot.com/academy-profile/member/103642442) (Content Marketing & AEO)
+- [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/fcc-e0fb4492-4374-4964-9dce-0eddfe302c8d/responsive-web-design-v9) ([public profile](https://www.freecodecamp.org/fcc-e0fb4492-4374-4964-9dce-0eddfe302c8d))
 
 ## Elsewhere & Contact
 
